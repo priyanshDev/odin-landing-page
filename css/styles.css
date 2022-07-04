@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.feature{
+    color: #000;
+}
+.title{
+    background-color: #ABC9FF;
+}
+.logo{
+    padding-left: 50px;
+    
+}
+.right-nav{
+    padding-right: 100px;
+}
+
+.random{
+    border: 2px solid red;
+    color: rgb(0, 95, 238);
+    text-align: center;
+    
+}
